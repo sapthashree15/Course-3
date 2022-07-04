@@ -22,4 +22,4 @@ Module 1 Glossary: Introduction to Cloud Native
 | **SRE** | &quot;Site Reliability Engineer&quot; The person who bridges the gap between development and operations. They spend about 50% of their time on improving existing operations to reduce failures and future efforts and the other 50% on development tasks like creating new features and implementing automation. |
 | **Test Driven Development** | The practice of creating tests before writing code. This ensures every line of code written is backed by a test. |
 | **Trail Map** | Developed by CNCF, this guide leads you through implementing cloud native computing technologies in the following sequence: containerization; CI/CD; orchestration and application definition; observability and analysis; service proxy, discovery, and mesh; networking, policy, and security; distributed database and storage; streaming and messaging; container registry and runtime; and software distribution.
- |
+ 
